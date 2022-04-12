@@ -1,6 +1,6 @@
 <?php
 
-$i="vi mod php";
+$i="v mod php";
 echo $i;
 
 ?>
